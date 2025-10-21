@@ -1,5 +1,4 @@
 ### Hi there😊My name is Sumaiya Akther 
-### A passionate developer form Bangladesh
 
 
 **sumaiyasumu66/sumaiyasumu66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
